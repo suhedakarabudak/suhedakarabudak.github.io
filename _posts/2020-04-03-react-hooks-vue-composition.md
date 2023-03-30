@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daha Organize Bir Hayat İçin " Notion" "
-subtitle: "Zaman, hayatımızın en önemli kaynağıdır. Zamanımızı doğru kullanarak hayatımızı daha değerli bir hale getirebiliriz."
+title: "Daha Organize Bir Hayat İçin Notion "
+subtitle: "Zaman,hayatımızın en önemli kaynağıdır.Zamanımızı doğru kullanarak hayatımızı daha değerli bir hale getirebiliriz."
 author: "Şuheda Karabudak"
 header-style: text
 tags:
@@ -30,15 +30,15 @@ Notion Uygulaması İle Zaman Yönetimi
 
 Notion, zaman yönetimi için oldukça faydalı bir araçtır. İşte Notion'un zaman yönetimi açısından nasıl kullanılabileceğine dair bazı ipuçları:
 
-1-Görevleri planlama: Notion, görevleri ve projeleri yönetmek için kullanabileceğiniz bir dizi araç sunar. Görev listeleri, öncelik sıralaması, hatırlatmalar ve takvim özellikleri, planlamayı kolaylaştırır ve zamanınızı daha iyi yönetmenizi sağlar.
+1.Görevleri planlama: Notion, görevleri ve projeleri yönetmek için kullanabileceğiniz bir dizi araç sunar. Görev listeleri, öncelik sıralaması, hatırlatmalar ve takvim özellikleri, planlamayı kolaylaştırır ve zamanınızı daha iyi yönetmenizi sağlar.
 
-2-Takvim kullanımı: Notion, bir takvim özelliği sunar ve bu özellik sayesinde tarihlerinizi ve randevularınızı kolayca takip edebilirsiniz. Takviminizdeki etkinlikleri, görevleri ve toplantıları kolayca planlayabilirsiniz.
+2.Takvim kullanımı: Notion, bir takvim özelliği sunar ve bu özellik sayesinde tarihlerinizi ve randevularınızı kolayca takip edebilirsiniz. Takviminizdeki etkinlikleri, görevleri ve toplantıları kolayca planlayabilirsiniz.
 
-3-Veri tabanı oluşturma: Notion, veri tabanları oluşturmanıza olanak tanır. Bu özellik sayesinde, özellikle rutin görevler için kullanabileceğiniz bir veritabanı oluşturarak zamanınızı daha iyi yönetebilirsiniz. Örneğin, yemek tarifleri, fitness programları, okuma listeleri gibi verileri düzenleyebilirsiniz.
+3.Veri tabanı oluşturma: Notion, veri tabanları oluşturmanıza olanak tanır. Bu özellik sayesinde, özellikle rutin görevler için kullanabileceğiniz bir veritabanı oluşturarak zamanınızı daha iyi yönetebilirsiniz. Örneğin, yemek tarifleri, fitness programları, okuma listeleri gibi verileri düzenleyebilirsiniz.
 
-4-İşbirliği yapmak: Notion, işbirliği yapmanızı kolaylaştırır. Bu özellik sayesinde takım üyeleriyle birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz. İşbirliği yaparak, takımınızın zaman yönetimini daha verimli hale getirebilirsiniz.
+4.İşbirliği yapmak: Notion, işbirliği yapmanızı kolaylaştırır. Bu özellik sayesinde takım üyeleriyle birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz. İşbirliği yaparak, takımınızın zaman yönetimini daha verimli hale getirebilirsiniz.
 
-5-Analiz yapmak: Notion, bir dizi analitik araç sunar ve bu araçlar sayesinde projelerinizin ilerlemesini ve zaman yönetiminizi analiz edebilirsiniz. Verileri analiz ederek, gelecekteki planlamalarınızda daha iyi kararlar alabilirsiniz.
+5.Analiz yapmak: Notion, bir dizi analitik araç sunar ve bu araçlar sayesinde projelerinizin ilerlemesini ve zaman yönetiminizi analiz edebilirsiniz. Verileri analiz ederek, gelecekteki planlamalarınızda daha iyi kararlar alabilirsiniz.
 
 Notion, birçok farklı özellik sunarak zaman yönetimini daha iyi bir hale getirir. Bu özellikler sayesinde, projelerinizi daha iyi planlayabilir, takip edebilir ve verimli bir şekilde çalışabilirsiniz.
 
@@ -47,37 +47,20 @@ Notion Uygulaması Nasıl Kullanılır ?
 -------------------------------------
 Notion kullanmak oldukça kolaydır ve uygulamanın birçok farklı özelliği ve kullanım senaryosu vardır. Ancak, genel olarak Notion'u kullanmak için izlenebilecek adımlar şunlardır:
 
-1-Hesap oluşturma: Notion'u kullanmak için öncelikle bir hesap oluşturmanız gerekir. Notion, kullanıcıların Google, Apple, Facebook veya e-posta hesapları üzerinden kaydolmalarına izin verir.
+1.Hesap oluşturma: Notion'u kullanmak için öncelikle bir hesap oluşturmanız gerekir. Notion, kullanıcıların Google, Apple, Facebook veya e-posta hesapları üzerinden kaydolmalarına izin verir.
 
-2-Alanlar oluşturma: Notion'da, alanlar olarak adlandırılan farklı çalışma alanları oluşturabilirsiniz. Bu alanlar, kişisel veya iş amaçlı olabilir. Örneğin, kişisel bir alan oluşturarak, okuma listeleri, yemek tarifleri, egzersiz programları vb. oluşturabilirsiniz. İş amaçlı olarak da, proje yönetimi, görevler, takvim, dokümanlar vb. oluşturabilirsiniz.
+2.Alanlar oluşturma: Notion'da, alanlar olarak adlandırılan farklı çalışma alanları oluşturabilirsiniz. Bu alanlar, kişisel veya iş amaçlı olabilir. Örneğin, kişisel bir alan oluşturarak, okuma listeleri, yemek tarifleri, egzersiz programları vb. oluşturabilirsiniz. İş amaçlı olarak da, proje yönetimi, görevler, takvim, dokümanlar vb. oluşturabilirsiniz.
 
-3-Sayfalar oluşturma: Notion'da, her alana birden fazla sayfa ekleyebilirsiniz. Sayfalar, notlar, görevler, dokümanlar vb. olabilir. Her sayfa, kendine özgü bir başlık, düzen ve özelliklerle özelleştirilebilir.
+3.Sayfalar oluşturma: Notion'da, her alana birden fazla sayfa ekleyebilirsiniz. Sayfalar, notlar, görevler, dokümanlar vb. olabilir. Her sayfa, kendine özgü bir başlık, düzen ve özelliklerle özelleştirilebilir.
 
-4-Şablonlar kullanma: Notion, bir dizi hazır şablon sunar. Bu şablonları kullanarak, iş akışlarınızı, projelerinizi ve diğer verilerinizi hızlı bir şekilde özelleştirebilirsiniz.
+4.Şablonlar kullanma: Notion, bir dizi hazır şablon sunar. Bu şablonları kullanarak, iş akışlarınızı, projelerinizi ve diğer verilerinizi hızlı bir şekilde özelleştirebilirsiniz.
 
-5-Özellikler kullanma: Notion, birçok farklı özellik sunar. Örneğin, takvimler, veri tabanları, görev listeleri, hatırlatmalar, analiz araçları gibi. Bu özellikler sayesinde, verilerinizi daha kolay yönetebilir ve projelerinizi daha verimli bir şekilde yönetebilirsiniz.
+5.Özellikler kullanma: Notion, birçok farklı özellik sunar. Örneğin, takvimler, veri tabanları, görev listeleri, hatırlatmalar, analiz araçları gibi. Bu özellikler sayesinde, verilerinizi daha kolay yönetebilir ve projelerinizi daha verimli bir şekilde yönetebilirsiniz.
 
-6-İşbirliği yapma: Notion, bir dizi işbirliği özelliği sunar. Bu özellikleri kullanarak, takımınızla birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz.
+6.İşbirliği yapma: Notion, bir dizi işbirliği özelliği sunar. Bu özellikleri kullanarak, takımınızla birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz.
 
 Notion'u kullanmak oldukça esnektir ve kullanım senaryonuza göre özelleştirilebilir. Yukarıda belirtilen adımları izleyerek, kendi ihtiyaçlarınıza ve hedeflerinize göre Notion'u kullanabilirsiniz.
 
-Buraya notiona ulaşmak isterseniz [https://www.notion.so] tıklayınız.
-(https://www.notion.so) 
+Buraya notiona ulaşmak isterseniz (https://www.notion.so) tıklayabilirsiniz.
 
 
-![](https://pica.zhimg.com/50/v2-22e50932c60262bf381456de3017b217_720w.jpg?source=1940ef5c)
-
-
-1.  JavaScript 模块化七日谈 - 黄玄的博客 Hux Blog [https://huangxuan.me/2015/07/09/js-module-7day/](https://huangxuan.me/2015/07/09/js-module-7day/)
-2.  如何理解尤雨溪在 2019 VueConf 上所讲的 UI 类框架很少使用面向对象的特性这件事？- 黄玄的回答 [https://www.zhihu.com/question/328958700/answer/714287394](https://www.zhihu.com/question/328958700/answer/714287394)
-3.  前端是否适合使用面向对象的方式编程？- 黄玄的回答 [https://www.zhihu.com/question/329005869/answer/739525268](https://www.zhihu.com/question/329005869/answer/739525268)
-4.  React Hooks的引入会对之后的React项目开发产生什么影响？- 黄玄的回答 [https://www.zhihu.com/question/302916879/answer/536846510](https://www.zhihu.com/question/302916879/answer/536846510)
-5.  React 上下文的组合是通过调用顺序在运行时里维护一个链表而非基于参数化多态的层叠（比如 Monad Transformer）来表达，可以看到都是线性的。
-6.  State-passing Style Hooks [https://mobile.twitter.com/acdlite/status/971598256454098944](https://mobile.twitter.com/acdlite/status/971598256454098944)
-7.  [https://github.com/reactjs/react-basic](https://github.com/reactjs/react-basic)
-8.  可以把上下文或者 Hooks 的调用视为一次 stack unwinding + resume continuation。同样，考虑 row polymorphism 也是线性的。
-9.  Algebraic Effects for the Rest of Us [https://overreacted.io/algebraic-effects-for-the-rest-of-us/](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
-10.  通俗易懂的代数效应 [https://overreacted.io/zh-hans/algebraic-effects-for-the-rest-of-us/](https://overreacted.io/zh-hans/algebraic-effects-for-the-rest-of-us/)
-11.  Why React [https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
-12.  [https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
-13.  [https://developer.android.com/jetpack/compose/state#remember](https://developer.android.com/jetpack/compose/state#remember)

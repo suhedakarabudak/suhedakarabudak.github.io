@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "Spor Yapmanın Psikolojik Faydaları Ve Stres Yönetimi"
+author:       "Şuheda Karabudak"
 header-style: text
 catalog:      true
 tags:
@@ -9,8 +9,18 @@ tags:
     - JavaScript
 ---
 
-> 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
+> Spor yapmanın psikolojik faydaları ve stres yönetimi konusu, sağlıklı yaşam ve fitness alanında oldukça önemli bir alt konudur. İşte spor yapmanın psikolojik faydaları ve stres yönetimi hakkında detaylı bilgiler:
 
-JavaScript 常常被戏称为一门偶然成功的玩具语言。而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，它因此成为多方角力的战场，却也有幸同时得到业界与学界先驱的亲传。时至今日，我们甚至难言是它背负了太多妥协，还是这些妥协才成就了它呢。以史为鉴，或许你会有自己的答案。
+1-Endorfin salgılanmasını arttırır: Spor yapmak, vücudun endorfin adı verilen mutluluk hormonlarının salgılanmasını arttırır. Bu hormonlar, stresi azaltarak, beyindeki olumlu duyguların artmasına neden olur. Böylece spor yapmak, psikolojik olarak daha iyi hissetmenize yardımcı olur.
 
-— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+2-Stresi azaltır: Spor yapmak, stresi azaltan en iyi yollardan biridir. Stresli bir günün ardından spor yapmak, vücudu ve zihni rahatlatarak, sakinleşmeye ve rahatlamaya yardımcı olur. Düzenli spor yapmak, stresle başa çıkmak için etkili bir yöntemdir.
+
+3-Özgüveni arttırır: Düzenli spor yapmak, fiziksel olarak daha sağlıklı ve fit görünmenizi sağlar. Bu da özgüveninizi arttırarak, kendinize olan inancınızı güçlendirir. Ayrıca, spor yapmak, başarıya ulaşmanın ve hedeflerinizi gerçekleştirmenin bir yoludur. Bu da özgüveninizi arttırır.
+
+4-Uykuyu düzenler: Spor yapmak, uyku düzenini düzenleyen bir başka faydalı yoldur. Düzenli spor yapmak, uyku kalitesini arttırarak, vücudun dinlenmesine ve yenilenmesine yardımcı olur. İyi bir gece uykusu, stresle başa çıkmak için önemlidir.
+
+5-Zihni açar: Spor yapmak, zihni açan bir aktivitedir. Zihni açmak, düşüncelerinizi netleştirerek, sorunlara karşı daha iyi bir bakış açısı kazandırır. Spor yapmak, zihninizi dinlendirerek, yaratıcılığınızı arttırabilir.
+
+6-Sosyal bağlantıları arttırır: Spor yapmak, sosyal bağlantıları arttıran bir başka yoldur. Takım sporlarına katılmak veya spor salonunda arkadaş edinmek, sosyal bağlantıları arttırarak, psikolojik sağlığı iyileştirir.
+
+7-Spor yapmanın psikolojik faydaları ve stres yönetimi, fiziksel sağlık kadar önemlidir. Düzenli olarak spor yapmak, stresle başa çıkmak, psikolojik sağlığı iyileştirmek ve daha mutlu bir yaşam sürdürmek için önemlidir.

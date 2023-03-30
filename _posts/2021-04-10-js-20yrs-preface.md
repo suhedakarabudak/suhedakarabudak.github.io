@@ -5,8 +5,8 @@ author:       "Şuheda Karabudak"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - Spor
+    - Stres
 ---
 
 > Spor yapmanın psikolojik faydaları ve stres yönetimi konusu, sağlıklı yaşam ve fitness alanında oldukça önemli bir alt konudur. İşte spor yapmanın psikolojik faydaları ve stres yönetimi hakkında detaylı bilgiler:

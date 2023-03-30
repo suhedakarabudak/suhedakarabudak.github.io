@@ -1,5 +1,5 @@
----
 ![](https://i.pinimg.com/564x/4a/03/bd/4a03bdada0a8b03cde7203fd79837e86.jpg)
+---
 layout: post
 title: "Daha Organize Bir Hayat İçin "Notion" "
 subtitle: "Zaman,hayatımızın en önemli kaynağıdır.Zamanımızı doğru kullanarak hayatımızı daha değerli bir hale getirebiliriz."

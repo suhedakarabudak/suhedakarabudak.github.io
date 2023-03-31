@@ -87,23 +87,23 @@ Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Not
 
 Sizlere birkaç tane şablon fikirleri paylaşıyorum. Bunları kendinize göre ayarlayıp kullanabilirsiniz.
 
-[Anasayfa Görünümü](https://www.notion.so/templates/home-heart)
+- [Anasayfa Görünümü](https://www.notion.so/templates/home-heart)
 
-[E-ticaret](https://www.notion.so/templates/product-launch-announcement-w-notion-ai) 
+- [E-ticaret](https://www.notion.so/templates/product-launch-announcement-w-notion-ai) 
 
-[Yeni Yıl Personel Hedefleri](https://www.notion.so/templates/collections/new-year-personal-organization)
+- [Yeni Yıl Personel Hedefleri](https://www.notion.so/templates/collections/new-year-personal-organization)
 
-[Yeni Yıl Hedefleri](https://www.notion.so/templates/2023-yearly-goal-tracker)
+- [Yeni Yıl Hedefleri](https://www.notion.so/templates/2023-yearly-goal-tracker)
 
-[Veri Tabanı](https://www.notion.so/templates/collections/essential-database-templates)
+- [Veri Tabanı](https://www.notion.so/templates/collections/essential-database-templates)
 
-[Sağlıklı Beslenme](https://www.notion.so/templates/food-dairy)
+- [Sağlıklı Beslenme](https://www.notion.so/templates/food-dairy)
 
-[ Spor / Fitness](https://www.notion.so/templates/huberman-functional-fitness-workout-template)
+- [ Spor / Fitness](https://www.notion.so/templates/huberman-functional-fitness-workout-template)
 
-[Spor / Fitness](https://www.notion.so/templates/workout-dashboard-2)
+- [Spor / Fitness](https://www.notion.so/templates/workout-dashboard-2)
 
-[Kitap Okuma Hedefleri](https://easlo.notion.site/Book-Tracker-ac56857aea15438fba90672ecb0e7bf3)
+- [Kitap Okuma Hedefleri](https://easlo.notion.site/Book-Tracker-ac56857aea15438fba90672ecb0e7bf3)
 
 
 

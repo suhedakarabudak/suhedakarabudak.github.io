@@ -81,12 +81,15 @@ Bu şablon, bir proje yöneticisi veya ekibinin proje yönetimini takip etmek i�
 -Dosyalar ve Dökümanlar: Proje için oluşturulan dosyaların ve dökümanların listesi.
 Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Notion sayfası oluşturabilirsiniz. Şablonu kullanarak sayfanızı özelleştirebilir ve proje yönetimi için ihtiyaç duyacağınız tüm bilgileri tek bir yerde toplayabilirsiniz.
 
-!![](https://i.pinimg.com/564x/77/8a/b2/778ab25564dc62b34548aa55d9ee5804.jpg)
+![](https://i.pinimg.com/564x/77/8a/b2/778ab25564dc62b34548aa55d9ee5804.jpg)
 
-!![](https://i.pinimg.com/564x/e1/c3/6c/e1c36cab1414e71b75ff7faa3935f2b8.jpg)
-Sizlere birkaç tane şablon fikirleri paylaşıyorum. Bunları kendinize göre ayarlayıp kullanabilirsiniz
+![](https://i.pinimg.com/564x/e1/c3/6c/e1c36cab1414e71b75ff7faa3935f2b8.jpg)
 
-(https://www.notion.so/templates/home-heart) --> Anasayfa Görünümü
+Sizlere birkaç tane şablon fikirleri paylaşıyorum. Bunları kendinize göre ayarlayıp kullanabilirsiniz.
+
+
+[Anasayfa Görünümü](https://www.notion.so/templates/home-heart)
+
 (https://www.notion.so/templates/product-launch-announcement-w-notion-ai) --> E-ticaret
 (https://www.notion.so/templates/collections/new-year-personal-organization) --> Yeni Yıl Personel Hedefleri
 (https://www.notion.so/templates/2023-yearly-goal-tracker)--> Yeni Yıl Hedefleri

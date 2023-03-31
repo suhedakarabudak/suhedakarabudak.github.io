@@ -74,15 +74,10 @@ Proje Yönetimi Şablonu:
 Bu şablon, bir proje yöneticisi veya ekibinin proje yönetimini takip etmek için kullanabileceği bir şablon örneğidir.
 
 -Proje özeti: Projenin özetini ve hedeflerini belirten bir bölüm.
-
 -Proje görevleri: Projenin görevlerinin listesi ve bunların tamamlanma durumları.
-
 -Zaman çizelgesi: Projenin zaman çizelgesini gösteren bir takvim.
-
 -Riskler ve Fırsatlar: Projenin risklerini ve fırsatlarını listeleme ve takip etme bölümü.
-
 -Toplantı Notları: Proje ile ilgili yapılan toplantıların notlarının alındığı bir bölüm.
-
 -Dosyalar ve Dökümanlar: Proje için oluşturulan dosyaların ve dökümanların listesi.
 
 Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Notion sayfası oluşturabilirsiniz. Şablonu kullanarak sayfanızı özelleştirebilir ve proje yönetimi için ihtiyaç duyacağınız tüm bilgileri tek bir yerde toplayabilirsiniz.

@@ -31,15 +31,15 @@ Notion Uygulaması İle Zaman Yönetimi
 
 Notion, zaman yönetimi için oldukça faydalı bir araçtır. İşte Notion'un zaman yönetimi açısından nasıl kullanılabileceğine dair bazı ipuçları:
 
-1.Görevleri planlama: Notion, görevleri ve projeleri yönetmek için kullanabileceğiniz bir dizi araç sunar. Görev listeleri, öncelik sıralaması, hatırlatmalar ve takvim özellikleri, planlamayı kolaylaştırır ve zamanınızı daha iyi yönetmenizi sağlar.
+1. Görevleri planlama: Notion, görevleri ve projeleri yönetmek için kullanabileceğiniz bir dizi araç sunar. Görev listeleri, öncelik sıralaması, hatırlatmalar ve takvim özellikleri, planlamayı kolaylaştırır ve zamanınızı daha iyi yönetmenizi sağlar.
 
-2.Takvim kullanımı: Notion, bir takvim özelliği sunar ve bu özellik sayesinde tarihlerinizi ve randevularınızı kolayca takip edebilirsiniz. Takviminizdeki etkinlikleri, görevleri ve toplantıları kolayca planlayabilirsiniz.
+2. Takvim kullanımı: Notion, bir takvim özelliği sunar ve bu özellik sayesinde tarihlerinizi ve randevularınızı kolayca takip edebilirsiniz. Takviminizdeki etkinlikleri, görevleri ve toplantıları kolayca planlayabilirsiniz.
 
-3.Veri tabanı oluşturma: Notion, veri tabanları oluşturmanıza olanak tanır. Bu özellik sayesinde, özellikle rutin görevler için kullanabileceğiniz bir veritabanı oluşturarak zamanınızı daha iyi yönetebilirsiniz. Örneğin, yemek tarifleri, fitness programları, okuma listeleri gibi verileri düzenleyebilirsiniz.
+3. Veri tabanı oluşturma: Notion, veri tabanları oluşturmanıza olanak tanır. Bu özellik sayesinde, özellikle rutin görevler için kullanabileceğiniz bir veritabanı oluşturarak zamanınızı daha iyi yönetebilirsiniz. Örneğin, yemek tarifleri, fitness programları, okuma listeleri gibi verileri düzenleyebilirsiniz.
 
-4.İşbirliği yapmak: Notion, işbirliği yapmanızı kolaylaştırır. Bu özellik sayesinde takım üyeleriyle birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz. İşbirliği yaparak, takımınızın zaman yönetimini daha verimli hale getirebilirsiniz.
+4. İşbirliği yapmak: Notion, işbirliği yapmanızı kolaylaştırır. Bu özellik sayesinde takım üyeleriyle birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz. İşbirliği yaparak, takımınızın zaman yönetimini daha verimli hale getirebilirsiniz.
 
-5.Analiz yapmak: Notion, bir dizi analitik araç sunar ve bu araçlar sayesinde projelerinizin ilerlemesini ve zaman yönetiminizi analiz edebilirsiniz. Verileri analiz ederek, gelecekteki planlamalarınızda daha iyi kararlar alabilirsiniz.
+5. Analiz yapmak: Notion, bir dizi analitik araç sunar ve bu araçlar sayesinde projelerinizin ilerlemesini ve zaman yönetiminizi analiz edebilirsiniz. Verileri analiz ederek, gelecekteki planlamalarınızda daha iyi kararlar alabilirsiniz.
 
 Notion, birçok farklı özellik sunarak zaman yönetimini daha iyi bir hale getirir. Bu özellikler sayesinde, projelerinizi daha iyi planlayabilir, takip edebilir ve verimli bir şekilde çalışabilirsiniz.
 
@@ -48,21 +48,21 @@ Notion Uygulaması Nasıl Kullanılır ?
 -------------------------------------
 Notion kullanmak oldukça kolaydır ve uygulamanın birçok farklı özelliği ve kullanım senaryosu vardır. Ancak, genel olarak Notion'u kullanmak için izlenebilecek adımlar şunlardır:
 
-1.Hesap oluşturma: Notion'u kullanmak için öncelikle bir hesap oluşturmanız gerekir. Notion, kullanıcıların Google, Apple, Facebook veya e-posta hesapları üzerinden kaydolmalarına izin verir.
+1. Hesap oluşturma: Notion'u kullanmak için öncelikle bir hesap oluşturmanız gerekir. Notion, kullanıcıların Google, Apple, Facebook veya e-posta hesapları üzerinden kaydolmalarına izin verir.
 
-2.Alanlar oluşturma: Notion'da, alanlar olarak adlandırılan farklı çalışma alanları oluşturabilirsiniz. Bu alanlar, kişisel veya iş amaçlı olabilir. Örneğin, kişisel bir alan oluşturarak, okuma listeleri, yemek tarifleri, egzersiz programları vb. oluşturabilirsiniz. İş amaçlı olarak da, proje yönetimi, görevler, takvim, dokümanlar vb. oluşturabilirsiniz.
+2. Alanlar oluşturma: Notion'da, alanlar olarak adlandırılan farklı çalışma alanları oluşturabilirsiniz. Bu alanlar, kişisel veya iş amaçlı olabilir. Örneğin, kişisel bir alan oluşturarak, okuma listeleri, yemek tarifleri, egzersiz programları vb. oluşturabilirsiniz. İş amaçlı olarak da, proje yönetimi, görevler, takvim, dokümanlar vb. oluşturabilirsiniz.
 
-3.Sayfalar oluşturma: Notion'da, her alana birden fazla sayfa ekleyebilirsiniz. Sayfalar, notlar, görevler, dokümanlar vb. olabilir. Her sayfa, kendine özgü bir başlık, düzen ve özelliklerle özelleştirilebilir.
+3. Sayfalar oluşturma: Notion'da, her alana birden fazla sayfa ekleyebilirsiniz. Sayfalar, notlar, görevler, dokümanlar vb. olabilir. Her sayfa, kendine özgü bir başlık, düzen ve özelliklerle özelleştirilebilir.
 
-4.Şablonlar kullanma: Notion, bir dizi hazır şablon sunar. Bu şablonları kullanarak, iş akışlarınızı, projelerinizi ve diğer verilerinizi hızlı bir şekilde özelleştirebilirsiniz.
+4. Şablonlar kullanma: Notion, bir dizi hazır şablon sunar. Bu şablonları kullanarak, iş akışlarınızı, projelerinizi ve diğer verilerinizi hızlı bir şekilde özelleştirebilirsiniz.
 
 5.Özellikler kullanma: Notion, birçok farklı özellik sunar. Örneğin, takvimler, veri tabanları, görev listeleri, hatırlatmalar, analiz araçları gibi. Bu özellikler sayesinde, verilerinizi daha kolay yönetebilir ve projelerinizi daha verimli bir şekilde yönetebilirsiniz.
 
-6.İşbirliği yapma: Notion, bir dizi işbirliği özelliği sunar. Bu özellikleri kullanarak, takımınızla birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz.
+6. İşbirliği yapma: Notion, bir dizi işbirliği özelliği sunar. Bu özellikleri kullanarak, takımınızla birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz.
 
 Notion'u kullanmak oldukça esnektir ve kullanım senaryonuza göre özelleştirilebilir. Yukarıda belirtilen adımları izleyerek, kendi ihtiyaçlarınıza ve hedeflerinize göre Notion'u kullanabilirsiniz.
 
-Buraya notiona ulaşmak isterseniz (https://www.notion.so) tıklayabilirsiniz.
+Notiona ulaşmak isterseniz [tıklayabilirsiniz](https://www.notion.so)
 
 
 Notion Şablon Örneği 
@@ -87,16 +87,14 @@ Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Not
 
 Sizlere birkaç tane şablon fikirleri paylaşıyorum. Bunları kendinize göre ayarlayıp kullanabilirsiniz.
 
-
 [Anasayfa Görünümü](https://www.notion.so/templates/home-heart)
-
-(https://www.notion.so/templates/product-launch-announcement-w-notion-ai) --> E-ticaret
-(https://www.notion.so/templates/collections/new-year-personal-organization) --> Yeni Yıl Personel Hedefleri
-(https://www.notion.so/templates/2023-yearly-goal-tracker)--> Yeni Yıl Hedefleri
-(https://www.notion.so/templates/collections/essential-database-templates) --> Veri Tabanı
-(https://www.notion.so/templates/food-dairy) --> Sağlıklı Beslenme
-(https://www.notion.so/templates/huberman-functional-fitness-workout-template)--> Spor / Fitness
-(https://www.notion.so/templates/workout-dashboard-2) --> Spor / Fitness
-(https://easlo.notion.site/Book-Tracker-ac56857aea15438fba90672ecb0e7bf3) --> Kitap Okuma Hedefleri
+[E-ticaret](https://www.notion.so/templates/product-launch-announcement-w-notion-ai) 
+[Yeni Yıl Personel Hedefleri](https://www.notion.so/templates/collections/new-year-personal-organization) 
+[Yeni Yıl Hedefleri](https://www.notion.so/templates/2023-yearly-goal-tracker)
+[Veri Tabanı](https://www.notion.so/templates/collections/essential-database-templates)
+[Sağlıklı Beslenme](https://www.notion.so/templates/food-dairy)
+[ Spor / Fitness](https://www.notion.so/templates/huberman-functional-fitness-workout-template)
+[Spor / Fitness](https://www.notion.so/templates/workout-dashboard-2)
+[Kitap Okuma Hedefleri](https://easlo.notion.site/Book-Tracker-ac56857aea15438fba90672ecb0e7bf3)
 
 

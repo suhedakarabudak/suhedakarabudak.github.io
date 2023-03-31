@@ -49,15 +49,10 @@ Notion Uygulaması Nasıl Kullanılır ?
 Notion kullanmak oldukça kolaydır ve uygulamanın birçok farklı özelliği ve kullanım senaryosu vardır. Ancak, genel olarak Notion'u kullanmak için izlenebilecek adımlar şunlardır:
 
 1. Hesap oluşturma: Notion'u kullanmak için öncelikle bir hesap oluşturmanız gerekir. Notion, kullanıcıların Google, Apple, Facebook veya e-posta hesapları üzerinden kaydolmalarına izin verir.
-
 2. Alanlar oluşturma: Notion'da, alanlar olarak adlandırılan farklı çalışma alanları oluşturabilirsiniz. Bu alanlar, kişisel veya iş amaçlı olabilir. Örneğin, kişisel bir alan oluşturarak, okuma listeleri, yemek tarifleri, egzersiz programları vb. oluşturabilirsiniz. İş amaçlı olarak da, proje yönetimi, görevler, takvim, dokümanlar vb. oluşturabilirsiniz.
-
 3. Sayfalar oluşturma: Notion'da, her alana birden fazla sayfa ekleyebilirsiniz. Sayfalar, notlar, görevler, dokümanlar vb. olabilir. Her sayfa, kendine özgü bir başlık, düzen ve özelliklerle özelleştirilebilir.
-
 4. Şablonlar kullanma: Notion, bir dizi hazır şablon sunar. Bu şablonları kullanarak, iş akışlarınızı, projelerinizi ve diğer verilerinizi hızlı bir şekilde özelleştirebilirsiniz.
-
 5.Özellikler kullanma: Notion, birçok farklı özellik sunar. Örneğin, takvimler, veri tabanları, görev listeleri, hatırlatmalar, analiz araçları gibi. Bu özellikler sayesinde, verilerinizi daha kolay yönetebilir ve projelerinizi daha verimli bir şekilde yönetebilirsiniz.
-
 6. İşbirliği yapma: Notion, bir dizi işbirliği özelliği sunar. Bu özellikleri kullanarak, takımınızla birlikte çalışabilir, görevleri paylaşabilir ve projelerinizi birlikte yönetebilirsiniz.
 
 Notion'u kullanmak oldukça esnektir ve kullanım senaryonuza göre özelleştirilebilir. Yukarıda belirtilen adımları izleyerek, kendi ihtiyaçlarınıza ve hedeflerinize göre Notion'u kullanabilirsiniz.
@@ -74,10 +69,15 @@ Proje Yönetimi Şablonu:
 Bu şablon, bir proje yöneticisi veya ekibinin proje yönetimini takip etmek için kullanabileceği bir şablon örneğidir.
 
 -Proje özeti: Projenin özetini ve hedeflerini belirten bir bölüm.
+
 -Proje görevleri: Projenin görevlerinin listesi ve bunların tamamlanma durumları.
+
 -Zaman çizelgesi: Projenin zaman çizelgesini gösteren bir takvim.
+
 -Riskler ve Fırsatlar: Projenin risklerini ve fırsatlarını listeleme ve takip etme bölümü.
+
 -Toplantı Notları: Proje ile ilgili yapılan toplantıların notlarının alındığı bir bölüm.
+
 -Dosyalar ve Dökümanlar: Proje için oluşturulan dosyaların ve dökümanların listesi.
 
 Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Notion sayfası oluşturabilirsiniz. Şablonu kullanarak sayfanızı özelleştirebilir ve proje yönetimi için ihtiyaç duyacağınız tüm bilgileri tek bir yerde toplayabilirsiniz.

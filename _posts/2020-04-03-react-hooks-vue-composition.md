@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daha Organize Bir Hayat İçin Notion "
+title: "Daha Organize Bir Hayat İçin \"Notion\""
 subtitle: "Zaman,hayatımızın en önemli kaynağıdır.Zamanımızı doğru kullanarak hayatımızı daha değerli bir hale getirebiliriz."
 author: "Şuheda Karabudak"
 header-style: text

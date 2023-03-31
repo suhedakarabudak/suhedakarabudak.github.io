@@ -1,6 +1,6 @@
 # Site settings
-title: Flâner Blog
-SEOTitle: Şuheda Karabudak | Flâner Blog
+title: Şuheda Karabudak Blog
+SEOTitle: Şuheda Karabudak |Şuheda Karabudak Blog
 header-img: img/home.jpeg
 email: karabudaksuheda@gmail.com
 description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
+weibo_username: 
+zhihu_username: 
 github_username: suhedakarabudak
-twitter_username: huxpro
-#facebook_username:  huxpro
+twitter_username: 
+#facebook_username:  
 #linkedin_username: suhedakarabudak
 
 # Build settings

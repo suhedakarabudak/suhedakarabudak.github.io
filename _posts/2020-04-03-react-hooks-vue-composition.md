@@ -10,6 +10,7 @@ tags:
   - Planlama
   - Notion
   - Görev Listesi
+  - Şablon
 ---
 
 ![](https://i.pinimg.com/564x/4a/03/bd/4a03bdada0a8b03cde7203fd79837e86.jpg)
@@ -62,5 +63,37 @@ Notion kullanmak oldukça kolaydır ve uygulamanın birçok farklı özelliği v
 Notion'u kullanmak oldukça esnektir ve kullanım senaryonuza göre özelleştirilebilir. Yukarıda belirtilen adımları izleyerek, kendi ihtiyaçlarınıza ve hedeflerinize göre Notion'u kullanabilirsiniz.
 
 Buraya notiona ulaşmak isterseniz (https://www.notion.so) tıklayabilirsiniz.
+
+
+Notion Şablon Örneği 
+------------------------------------- 
+Notion, kullanıcılarına birçok farklı şablon seçeneği sunar ve bu şablonları kullanarak çeşitli amaçlar için özelleştirilmiş sayfalar oluşturabilirsiniz. Aşağıda bir örnek Notion şablonu bulabilirsiniz:
+
+Proje Yönetimi Şablonu:
+
+Bu şablon, bir proje yöneticisi veya ekibinin proje yönetimini takip etmek için kullanabileceği bir şablon örneğidir.
+
+-Proje özeti: Projenin özetini ve hedeflerini belirten bir bölüm.
+-Proje görevleri: Projenin görevlerinin listesi ve bunların tamamlanma durumları.
+-Zaman çizelgesi: Projenin zaman çizelgesini gösteren bir takvim.
+-Riskler ve Fırsatlar: Projenin risklerini ve fırsatlarını listeleme ve takip etme bölümü.
+-Toplantı Notları: Proje ile ilgili yapılan toplantıların notlarının alındığı bir bölüm.
+-Dosyalar ve Dökümanlar: Proje için oluşturulan dosyaların ve dökümanların listesi.
+Bu şablonu kullanarak, proje yönetimini takip etmek için ayrıntılı bir Notion sayfası oluşturabilirsiniz. Şablonu kullanarak sayfanızı özelleştirebilir ve proje yönetimi için ihtiyaç duyacağınız tüm bilgileri tek bir yerde toplayabilirsiniz.
+
+!![](https://i.pinimg.com/564x/77/8a/b2/778ab25564dc62b34548aa55d9ee5804.jpg)
+
+!![](https://i.pinimg.com/564x/e1/c3/6c/e1c36cab1414e71b75ff7faa3935f2b8.jpg)
+Sizlere birkaç tane şablon fikirleri paylaşıyorum. Bunları kendinize göre ayarlayıp kullanabilirsiniz
+
+(https://www.notion.so/templates/home-heart) --> Anasayfa Görünümü
+(https://www.notion.so/templates/product-launch-announcement-w-notion-ai) --> E-ticaret
+(https://www.notion.so/templates/collections/new-year-personal-organization) --> Yeni Yıl Personel Hedefleri
+(https://www.notion.so/templates/2023-yearly-goal-tracker)--> Yeni Yıl Hedefleri
+(https://www.notion.so/templates/collections/essential-database-templates) --> Veri Tabanı
+(https://www.notion.so/templates/food-dairy) --> Sağlıklı Beslenme
+(https://www.notion.so/templates/huberman-functional-fitness-workout-template)--> Spor / Fitness
+(https://www.notion.so/templates/workout-dashboard-2) --> Spor / Fitness
+(https://easlo.notion.site/Book-Tracker-ac56857aea15438fba90672ecb0e7bf3) --> Kitap Okuma Hedefleri
 
 

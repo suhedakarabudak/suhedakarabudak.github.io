@@ -14,29 +14,61 @@ tags:
 
 > Rutinler, hayatın karmaşıklığını basitleştirir ve başarıya giden yolu adımlara döker, bu nedenle disiplin ve tutarlılıkla büyük başarılar elde edilebilir.
 
-
 ![](https://i.pinimg.com/564x/bc/5c/25/bc5c25fae9213bf599f92912770b2846.jpg)
 
 **Rutin**, tekrarlanan işleri veya alışkanlıkları düzenli bir şekilde yapma pratiğidir. Bir rutin, bir kişinin yaşamını düzenlemesine, zamanını daha verimli kullanmasına ve belirli hedeflere ulaşmasına yardımcı olabilir. İşte bir rutini nasıl oluşturabileceğinizi ve sürdürebileceğinizi anlatan adımlar:
 
-![](https://i.pinimg.com/564x/bc/72/8a/bc728a292c3bb4191ab583f800531020.jpg)
 **Hedef Belirleyin:** İlk adım, neden bir rutin oluşturmak istediğinizi ve ne tür sonuçlar elde etmeyi umduğunuzu belirlemektir. Örneğin, daha sağlıklı bir yaşam tarzı benimsemek, daha üretken olmak veya yeni bir beceri öğrenmek gibi hedefler belirleyebilirsiniz.Bu hedefleri belirlerken ikiye bölebilirsiniz.Birinci kısım olarak ana hedefiniz, ikinci kısım olarak da ana hedefinize giden yolda ilerleyeceğiniz hedefler şeklinde belirleyebilirsiniz.
 
+![](https://i.pinimg.com/564x/bc/72/8a/bc728a292c3bb4191ab583f800531020.jpg)
 
-**Rutininizi Planlayın:** Hedefinizi belirledikten sonra, bu hedefe ulaşmanıza yardımcı olacak bir rutin oluşturun. Hangi aktiviteleri ne zaman ve nasıl yapacağınıza karar verin. Örneğin, sabah erken saatlerde egzersiz yapmak, her gün birkaç saat çalışmak veya kitap okumak gibi aktiviteleri planlayabilirsiniz.
+**Rutininizi Planlayın:** Hedefinizi belirledikten sonra, bu hedefe ulaşmanıza yardımcı olacak bir rutin oluşturun. Hangi aktiviteleri ne zaman ve nasıl yapacağınıza karar verin. Örneğin, sabah erken saatlerde egzersiz yapmak, her gün birkaç saat çalışmak veya kitap okumak gibi aktiviteleri planlayabilirsiniz.Burada kendi blog sayfamda da bahsettiğim [notion](https://suhedakarabudak.github.io/2023/03/30/notion-uygulamasi/) uygulamasını kullanarak planlarınızı oluşturabilirsiniz.
 
-![](https://i.pinimg.com/564x/4d/ca/cc/4dcacc75b8bf808482221454e3967c1c.jpg)
+![](https://i.pinimg.com/564x/18/0e/2b/180e2b8da5b10a123d420416147d1e9d.jpg)
 
 **Basit Başlayın:** Rutini oluştururken aşamalı olarak ilerlemek önemlidir. Çok fazla değişiklik yapmak veya çok fazla yeni alışkanlık eklemek, sizi motivasyon kaybına uğratabilir. Başlangıçta, küçük ve sürdürülebilir adımlarla başlamak daha iyidir.
 
 **Takip Edin ve Değerlendirin:** Rutininizi uygulamaya başladığınızda, ilerlemenizi takip etmek için bir günlük veya not defteri tutun. Bu, ne kadar süre boyunca rutini sürdürebildiğinizi ve belirli hedeflere ne kadar yaklaştığınızı gözlemlemenize yardımcı olacaktır. Ayrıca, rutininizi düzenli olarak değerlendirin ve gerektiğinde ayarlamalar yapın.
 
-Sabırlı Olun: Bir rutini sürdürmek zaman alabilir ve başlangıçta zorlayıcı olabilir. Ancak sabırlı olun ve düzenli olarak uygulamaya devam edin. Zamanla, rutinler otomatikleşecek ve daha kolay hale gelecektir.
+**Kendimden örnek verirsem;** Kilolu olduğum zamanlar spor yapmaktan nefret ederdim.Hayatım mininmum hareket ve sağlıksız beslenmeyle geçerdi.Bunu değiştirmek içinde bazı hedefleri yerine getirmem gerekiyordu.İlk önce literatür taraması yaptım.Bu konuyla ilgili neyi nasıl yapacağımı, özellikle zamanımı nasıl ayarlacağımı vs. Ana hedefimi belirlerken bunu yapmam uzun süreceği için belli bir tarih koymadan şu kiloda olmak istiyorum demiştim.Ardından bunu aylar ve haftalara bölmüştüm.İlk aylar düzenli bir şekilde ilerlerken bir,iki hafta bazı rutinleri yapamadığımı fark ettim.Bunun üstesinden gelmek için o rutinin ilk aşamasını yapıyordum.(örneğin günlük 10 sayfa kitap okuma gibi rutin hedeflediysem ve bunu yapamıyorsam.Sayfa sayısını 5 ya da 1 indirmek gibi).Amacım sporu hayatıma bir şekilde almaktı.İlk başlarda yürüyüşle daha sonra evde pilates-yoga hareketleri daha sonra spor salonuna gitmekle rutin haline getirdim.Bu süreçte en önemli şey, sabırla ve azimle ilerlemekti. Önceleri spor yapmaktan nefret ederken, zamanla spor rutini sağlıklı bir yaşam tarzının vazgeçilmez bir parçası haline geldi. İlk başlarda yavaş adımlarla başladım, ancak bu alışkanlığı edinmek için her gün kendimi motive ettim. İlerledikçe, kilo vermek ve daha sağlıklı bir bedene sahip olmak gibi büyük hedeflerim, küçük ve sürdürülebilir adımlarla gerçekleşmeye başladı. Bu süreç, rutinlerin insan hayatında ne kadar güçlü bir etkiye sahip olabileceğini öğretti. Şimdi spor yapmak sadece bir alışkanlık değil, yaşam tarzımın vazgeçilmez bir parçası. Rutinler, istediğimiz değişiklikleri hayatımıza getirmemize yardımcı olabilir ve azimle sürdürüldüğünde büyük başarılar elde etmemizi sağlar.
 
-Kendinizi Ödüllendirin: Başarılı bir şekilde bir rutini sürdürdüğünüzde kendinizi ödüllendirin. Bu, motivasyonunuzu artırabilir ve devam etmenize yardımcı olabilir.
+**Gelin Bir İstatistikçi Olarak Elimizdeki Verilerle Bu Olayı Açıklayalım:**
 
-Tutkulu Olun: Rutininizin içeriği hakkında tutkulu olmak, onu sürdürmeyi daha kolay hale getirebilir. İlgilendiğiniz ve keyif aldığınız aktiviteleri rutininizin bir parçası yapmak daha olasıdır.
+![](https://i.pinimg.com/564x/b3/d6/af/b3d6af32500243e98b7f1747d5f555a4.jpg)
 
+```python
+import matplotlib.pyplot as plt
+
+t = [100]
+
+for j in range(1,365):
+    t.append(t[j-1]+(t[j-1]*0.01))
+    print(j,t[j-1])
+
+plt.plot(t)
+plt.show
+```
+```
+1 100
+2 101.0
+3 102.01
+4 103.0301
+5 104.060401
+6 105.10100501
+...
+361 3594.9641327684935
+362 3630.9137740961783
+363 3667.22291183714
+364 3703.8951409555116
+```
+![636d5d51-cab6-4f07-aa8a-3128e4414f40](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/c00c11ab-02ef-456b-9939-ed85e04005cf)
+
+Her gün belirli bir oranda artan bir değeri hesaplayarak bir veri listesi oluşturdum. Başlangıçta, t adında bir liste oluşturulur ve bu liste 100 değeriyle başlar. Bir döngü kullanılarak, listenin her bir sonraki elemanı, önceki günün değerine belirli bir yüzde (0.01 oranında) eklenerek hesaplanır. Bu, bir yıl boyunca her günün değerini temsil eder.
+Burada, günlük rutinlerin zaman içindeki etkisini göstermek istedim. Başlangıçta küçük bir çaba veya etki, sürekli olarak tekrarlandığında ve artırıldığında, zaman içinde büyük sonuçlara yol açabilir.
+
+Sonuç
+--
+Başarılı bir rutin oluştururken sabırlı olmak, süreçte karşılaşılan zorluklara rağmen düzenli olarak uygulamaya devam etmek anlamına gelir. Bu süre zarfında kendinizi ödüllendirmek, elde ettiğiniz başarıları kutlamak ve motivasyonunuzu artırmak için önemlidir. Ayrıca, rutininizin içeriğine tutkulu olmak, o aktiviteleri daha keyifli hale getirir ve sürdürmeyi kolaylaştırır. Tutkunuzu keşfetmek ve onu rutininizin bir parçası yapmak, başarıya giden yolda sizi ileri taşıyabilir.
 Rutinler, disiplin, tutarlılık ve motivasyon gerektiren bir süreçtir. Başlangıçta zor olabilir, ancak zamanla alışkanlık haline gelebilir ve sizin için olumlu sonuçlar doğurabilir. Unutmayın ki herkes farklıdır, bu yüzden kendi ihtiyaçlarınıza ve hedeflerinize uygun bir rutin oluşturmalısınız.
 
 

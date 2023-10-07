@@ -19,8 +19,7 @@ tags:
 
 **Rutin**, tekrarlanan işleri veya alışkanlıkları düzenli bir şekilde yapma pratiğidir. Bir rutin, bir kişinin yaşamını düzenlemesine, zamanını daha verimli kullanmasına ve belirli hedeflere ulaşmasına yardımcı olabilir. İşte bir rutini nasıl oluşturabileceğinizi ve sürdürebileceğinizi anlatan adımlar:
 
-![](https://i.pinimg.com/564x/6d/3d/8f/6d3d8ff595156a08ad2665131249a5e7.jpg)
-
+![](https://i.pinimg.com/564x/bc/72/8a/bc728a292c3bb4191ab583f800531020.jpg)
 **Hedef Belirleyin:** İlk adım, neden bir rutin oluşturmak istediğinizi ve ne tür sonuçlar elde etmeyi umduğunuzu belirlemektir. Örneğin, daha sağlıklı bir yaşam tarzı benimsemek, daha üretken olmak veya yeni bir beceri öğrenmek gibi hedefler belirleyebilirsiniz.Bu hedefleri belirlerken ikiye bölebilirsiniz.Birinci kısım olarak ana hedefiniz, ikinci kısım olarak da ana hedefinize giden yolda ilerleyeceğiniz hedefler şeklinde belirleyebilirsiniz.
 
 

@@ -55,6 +55,26 @@ Dijital bankacılık, müşterilere daha iyi hizmet sunmak ve finansal kararlar�
 Seyahat ve turizm endüstrisi, kullanıcıların tercihlerine dayalı olarak özelleştirilmiş tatil paketleri sunarak müşteri memnuniyetini maksimize eder. Bir kullanıcının geçmiş seyahat deneyimleri, konaklama tercihleri ve aktivite ilgi alanları analiz edilerek, kişiselleştirilmiş seyahat önerileri yapılır. Bu, online seyahat platformlarının kullanıcıların beklentilerine daha iyi yanıt vermesini sağlar ve seyahat planlama sürecini kolaylaştırır.
 
 
+Sonuç
+--
+Sonuç olarak, mneri sistemleri dijital dünyada kullanıcıların karşısına çıkan bilgi bombardımanını sınırlamak ve en ilgi çekici içeriklere yönlendirmek adına güçlü bir araçtır. Bu algoritmalar, sadece kullanıcının tıklama geçmişine dayanmakla kalmaz, aynı zamanda anlık tercihleri de dikkate alarak sürekli evrim geçirir. Öneri sistemleri, dijital dünyada kullanıcılara rehberlik eden, keşifleri kolaylaştıran ve deneyimleri kişiselleştiren birer dijital yol arkadaşıdır. Unutulmaz bir dijital yolculuk için, öneri sistemlerini keşfetmeye ve kullanmaya devam edin! 🚀🔮
+
+Bununla ilgili **Hugging Face** den aldığım spotify veri setini kullanarak içerik tabanlı öneri sistem modeli geliştirdim. [proje](https://github.com/suhedakarabudak/Data-Science/blob/master/recommender/content.py)
+Kaynakça bölümüne incelemek veya bu konuyla ilgili daha detaylı bilgi almak isterseniz diye birkaç makale bırakıyorum.
+
 Kaynakça
 --
+
+- [NVIDIA Recommendation System](https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/)
+  
+
+- [Kullanıcı Tabanlı ve Öğe Tabanlı İşbirlikçi Filtreleme ile Kümeleme Algoritmalarının Değerlendirilmesi](https://dergipark.org.tr/tr/download/article-file/2012249)
+  
+
+- [Öneri Algoritmalarının Film Önerme Problemi Üzerinde Karşılaştırılması](https://dergipark.org.tr/en/download/article-file/1640671)
+  
+
+- [The Amazon Recommendations Secret to Selling More Onlin](https://www.rejoiner.com/resources/amazon-recommendations-secret-selling-online)
+
+
 

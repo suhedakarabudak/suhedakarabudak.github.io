@@ -57,7 +57,7 @@ Seyahat ve turizm endüstrisi, kullanıcıların tercihlerine dayalı olarak öz
 
 Sonuç
 --
-Sonuç olarak, mneri sistemleri dijital dünyada kullanıcıların karşısına çıkan bilgi bombardımanını sınırlamak ve en ilgi çekici içeriklere yönlendirmek adına güçlü bir araçtır. Bu algoritmalar, sadece kullanıcının tıklama geçmişine dayanmakla kalmaz, aynı zamanda anlık tercihleri de dikkate alarak sürekli evrim geçirir. Öneri sistemleri, dijital dünyada kullanıcılara rehberlik eden, keşifleri kolaylaştıran ve deneyimleri kişiselleştiren birer dijital yol arkadaşıdır. Unutulmaz bir dijital yolculuk için, öneri sistemlerini keşfetmeye ve kullanmaya devam edin! 🚀🔮
+Sonuç olarak, öneri sistemleri dijital dünyada kullanıcıların karşısına çıkan bilgi bombardımanını sınırlamak ve en ilgi çekici içeriklere yönlendirmek adına güçlü bir araçtır. Bu algoritmalar, sadece kullanıcının tıklama geçmişine dayanmakla kalmaz, aynı zamanda anlık tercihleri de dikkate alarak sürekli evrim geçirir. Öneri sistemleri, dijital dünyada kullanıcılara rehberlik eden, keşifleri kolaylaştıran ve deneyimleri kişiselleştiren birer dijital yol arkadaşıdır. Unutulmaz bir dijital yolculuk için, öneri sistemlerini keşfetmeye ve geliştirmeye devam edin! 🚀🔮
 
 Bununla ilgili **Hugging Face** den aldığım spotify veri setini kullanarak içerik tabanlı öneri sistem modeli geliştirdim. [proje](https://github.com/suhedakarabudak/Data-Science/blob/master/recommender/content.py)
 Kaynakça bölümüne incelemek veya bu konuyla ilgili daha detaylı bilgi almak isterseniz diye birkaç makale bırakıyorum.

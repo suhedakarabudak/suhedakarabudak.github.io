@@ -5,11 +5,9 @@ subtitle: "Dijital çağda, öneri sistemleri adeta dedektif gibi çalışarak k
 author: "Şuheda Karabudak"
 header-style: text
 tags:
-  - İstatistik
-  - p-değeri
-  - Dağılım
+  - Data Science
   - Veri
-  - Örneklem
+  - Dijital Hayat
 ---
 
 ![Recommaster-gif](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/11332841-f1ce-40e9-ba5c-01ec71500ccc)
@@ -61,6 +59,7 @@ Sonuç olarak, öneri sistemleri dijital dünyada kullanıcıların karşısına
 
 Bununla ilgili **Hugging Face** den aldığım spotify veri setini kullanarak içerik tabanlı öneri sistem modeli geliştirdim. [proje](https://github.com/suhedakarabudak/Data-Science/blob/master/recommender/content.py)
 Kaynakça bölümüne incelemek veya bu konuyla ilgili daha detaylı bilgi almak isterseniz diye birkaç makale bırakıyorum.
+
 
 Kaynakça
 --

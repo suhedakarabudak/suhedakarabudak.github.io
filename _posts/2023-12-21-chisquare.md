@@ -1,16 +1,15 @@
 ---
-layout:       post
-title:        ""
-author:       "Şuheda Karabudak"
+layout:post
+title:"khk"
+author:"Şuheda Karabudak"
 header-style: text
-catalog:      true
+catalog:true
 tags:
     - Veri
     - Rutin
     - Stres
     - Alışkanlık
 ---
-
 
 ![Neutral Beige Minimalist Company Organizational Chart](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/21033f81-866f-42d2-99c8-e9cd556341d9)
 
@@ -54,4 +53,25 @@ RxC boyutlu çapraz tabloların analizinde araştırmanın hedefine bağlı olar
 
 Bağımsızlık kontrolünde,satır ve sütun değişkenler arasında ilişkinin analizi söz konusu iken,gruplar arası fark kontrolünde bir değişken bakımından diğer değişkenin düzeyleri arasında fark olup olmadığı incelenmektedir.Bu iki analiz arasındaki farklılıklar olsa da iki analizde de aynı ki-kare testi kullanılmaktadır.Farklılıklar kurulacak olan Ho hipotezi ve Ho reddedilği takdirde izlenecek olan yoldur.
 
+**1.RxC Çapraz Tablolarda Bağımsızlık Kontrolü:**
+- Çapraz tabloda bir kitleden alınan bir örneklemin düzeylere göre incelenmesinden oluşuyor ise bağımsızlık kontrolü yapılır.
+- Test süreci, gruplar arası fark kontrolü ile aynıdır.Ancak hipotez ifadeleri değişir.
+- **Hipotezler** Ho: Değişkenler arasında ilişki yoktur.
+  
+                 H1: Değişkenler arasında ilişki vardır.
+biçiminde kurulur.Testin diğer adımları aynıdır.Eğer test sonucu hipotez reddedilirse yani incelenen değişkenler arasında ilişki olduğu söylenebilir.Bu durumda değişkenler arasında ilişki katsayısı hesaplanır.
 
+**İlişki Katsayıları**
+- Bağımsızlık kontrolünde hipotez reddedilirse değişkenler arasındaki ilişki katsayısı hesaplanır.Hesaplanan ilişki katsayıları değişkenlerin ordinal(sıralanabilir) ya da nominal(sınıflanabilir) olmasına göre farklılık gösterir.
+- Değişkenlerin her ikisi nominal olduğunda (nominal-nominal ) kulanılan ilişki katsayıları;
+
+    - Pearson'n C katsayısı
+    - Cramer'in V katsayısı
+    - Phi katsayısı
+      
+- Değişkenlerin her ikiside ordinal ya da nominal- ordinal  olduğunda kullanılan ilişki katsayıları;
+    - Gamma
+    - Kendall's Tau b
+    - Kendall's Tau c
+      
+**İlişki Katsayısının Önem Kontrolü**

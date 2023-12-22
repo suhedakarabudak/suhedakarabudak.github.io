@@ -2,7 +2,7 @@
 layout:post
 title:"khk"
 author:"Şuheda Karabudak"
-header-style: text
+header-style:text
 catalog:true
 tags:
     - Veri

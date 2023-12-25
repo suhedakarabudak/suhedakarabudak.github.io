@@ -1,15 +1,15 @@
 ---
-layout:post
-title:"khk"
-author:"Şuheda Karabudak"
-header-style:text
-catalog:true
+layout: post
+title: "Öneri Sistemleri Hakkında"
+subtitle: "Dijital çağda, öneri sistemleri adeta dedektif gibi çalışarak kullanıcıların izlerini takip ediyor ve en sevdikleri içerikleri önlerine seriyor. Bu yazıda, teknolojinin detektifleri olarak kabul edilen öneri sistemlerinin sırlarına bir göz atacağız. Kullanıcıların sanal dünyada iz bıraktığı her adımda, bu algoritmalar nasıl esrarengiz bir şekilde ortaya çıkıyor? 🕵️‍♂️🔍"
+author: "Şuheda Karabudak"
+header-style: text
 tags:
-    - Veri
-    - Rutin
-    - Stres
-    - Alışkanlık
+  - Data Science
+  - Veri
+  - Dijital Hayat
 ---
+
 
 ![Neutral Beige Minimalist Company Organizational Chart](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/21033f81-866f-42d2-99c8-e9cd556341d9)
 

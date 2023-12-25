@@ -57,7 +57,9 @@ Bağımsızlık kontrolünde,satır ve sütun değişkenler arasında ilişkinin
 - Çapraz tabloda bir kitleden alınan bir örneklemin düzeylere göre incelenmesinden oluşuyor ise bağımsızlık kontrolü yapılır.
 - Test süreci, gruplar arası fark kontrolü ile aynıdır.Ancak hipotez ifadeleri değişir.
 - **Hipotezler**
+  
                  Ho: Değişkenler arasında ilişki yoktur.
+  
   
                  H1: Değişkenler arasında ilişki vardır.
   
@@ -81,6 +83,12 @@ Hesaplanan ilişki katsayılarının istatistiksel olarak anlamlı olup olmadı�
 θ bir ilişki katsayısını göstersin;
 
         Ho: θ = 0  şeklinde kurulan yokluk hipozetezi
+        
 ![Screenshot from 2023-12-22 13-29-42](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/d7dd33ab-2066-4ee3-8f73-e00e9abe9e7a)
 
 Yokluk hpotezinin dğruluğu altında Z standart normal dağılım gösterir.Bu durumda |Z| >Zα/2 ise Ho reddedilir. p değeri α ile karşılatırılır.P<α ise ilişki katsayısı önemlidir.
+
+![Screenshot from 2023-12-25 13-34-49](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/e3466540-df94-40b2-8124-789dcb5bafab)
+
+
+

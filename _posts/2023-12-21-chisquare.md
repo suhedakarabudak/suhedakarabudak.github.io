@@ -53,6 +53,10 @@ RxC boyutlu çapraz tabloların analizinde araştırmanın hedefine bağlı olar
 
 Bağımsızlık kontrolünde,satır ve sütun değişkenler arasında ilişkinin analizi söz konusu iken,gruplar arası fark kontrolünde bir değişken bakımından diğer değişkenin düzeyleri arasında fark olup olmadığı incelenmektedir.Bu iki analiz arasındaki farklılıklar olsa da iki analizde de aynı ki-kare testi kullanılmaktadır.Farklılıklar kurulacak olan Ho hipotezi ve Ho reddedilği takdirde izlenecek olan yoldur.
 
+**Ki-kare testi formulü:**
+
+![Screenshot from 2023-12-27 13-22-58](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/3a19a2df-b47e-4ba2-921b-b77e42e2539d)
+
 **1.RxC Çapraz Tablolarda Bağımsızlık Kontrolü:**
 - Çapraz tabloda bir kitleden alınan bir örneklemin düzeylere göre incelenmesinden oluşuyor ise bağımsızlık kontrolü yapılır.
 - Test süreci, gruplar arası fark kontrolü ile aynıdır.Ancak hipotez ifadeleri değişir.
@@ -89,6 +93,7 @@ Hesaplanan ilişki katsayılarının istatistiksel olarak anlamlı olup olmadı�
 Yokluk hpotezinin dğruluğu altında Z standart normal dağılım gösterir.Bu durumda |Z| >Zα/2 ise Ho reddedilir. p değeri α ile karşılatırılır.P<α ise ilişki katsayısı önemlidir.
 
 ![Screenshot from 2023-12-25 13-34-49](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/e3466540-df94-40b2-8124-789dcb5bafab)
+
 
 
 

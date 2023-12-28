@@ -92,7 +92,12 @@ Hesaplanan ilişki katsayılarının istatistiksel olarak anlamlı olup olmadı�
 
 Yokluk hpotezinin dğruluğu altında Z standart normal dağılım gösterir.Bu durumda |Z| >Zα/2 ise Ho reddedilir. p değeri α ile karşılatırılır.P<α ise ilişki katsayısı önemlidir.
 
-![Screenshot from 2023-12-25 13-34-49](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/e3466540-df94-40b2-8124-789dcb5bafab)
+
+**Örnek**
+
+Türkiye'de evliliklerinde eşlerin eğitim durumlarına önem verdikleri,eş seçimlerinde kendi eğitim durumlarına eşit eğitim durumuna sahip eşler seçme eğilimi gösterdikleri ileri sürülmektedir.Bu savı denetlemek için yapılan bir eğitim düzeyi araştırmasında rasgele seçilen 200 ailede eşlerin eğitim durumlarına göre verileri aşağıdaki gibidir.Eşlerin eğitim durumları birbirinden bağımsız mıdır? %95 güven düzeyinde test ediniz.
+
+![Screenshot from 2023-12-28 18-35-22](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/8c4061f6-b14f-499f-8701-098108b63877)
 
 
 

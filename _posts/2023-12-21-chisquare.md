@@ -99,6 +99,11 @@ Türkiye'de evliliklerinde eşlerin eğitim durumlarına önem verdikleri,eş se
 
 ![Screenshot from 2023-12-28 18-35-22](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/8c4061f6-b14f-499f-8701-098108b63877)
 
+**Çözüm**
 
+Beklenen Sıklıkları hesaplamak için her göze için ; bulunduğu satır toplamı * bulunduğu sütun toplamı / Genel toplam
 
+![Screenshot from 2023-12-28 18-42-27](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/22cbe353-567d-4787-81a1-b13a40cb2143)
+
+Yukarıdaki toplada beklenen her göze için beklenen frekanslar hesaplanmıştır.
 

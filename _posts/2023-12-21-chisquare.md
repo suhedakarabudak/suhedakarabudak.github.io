@@ -115,14 +115,10 @@ import researchpy, pandas ,numpy
 df = pandas.DataFrame(numpy.random.randint(3, size= (200, 3)),
                   columns= ['erkek', 'severity', 'kadın'])
                   
-researchpy.crosstab(df['erkek'], df['kadın'])
+researchpy.crosstab(df['erkek'],df['kadın'],test='chi-square')
 ```
 
-|\(&\#39;erkek&\#39;, &\#39;&\#39;\)|\(&\#39;kadın&\#39;, 0\)|\(&\#39;kadın&\#39;, 1\)|\(&\#39;kadın&\#39;, 2\)|\(&\#39;kadın&\#39;, &\#39;All&\#39;\)|
-|---|---|---|---|---|
-|0|27|22|21|70|
-|1|16|21|22|59|
-|2|25|19|27|71|
-|All|68|62|70|200|
+![Screenshot from 2023-12-30 23-13-16](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/6c0a5f1c-2adb-47dd-a7ad-64a769bd7235)
+
 
 

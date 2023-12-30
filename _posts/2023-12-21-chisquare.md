@@ -107,3 +107,15 @@ Beklenen Sıklıkları hesaplamak için her göze için ; bulunduğu satır topl
 
 Yukarıdaki toplada beklenen her göze için beklenen frekanslar hesaplanmıştır.
 
+Ki-kare formül yoluyla bulabilirsiniz.Sizlere pythonda nasıl yapılacağını göstereceğim.
+'''
+python
+import researchpy, pandas ,numpy
+
+df = pandas.DataFrame(numpy.random.randint(3, size= (200, 3)),
+                  columns= ['erkek', 'severity', 'kadın'])
+                  
+researchpy.crosstab(df['erkek'], df['kadın'])
+'''
+
+

@@ -109,14 +109,13 @@ Yukarıdaki toplada beklenen her göze için beklenen frekanslar hesaplanmışt�
 
 Ki-kare formül yoluyla bulabilirsiniz.Sizlere pythonda nasıl yapılacağını göstereceğim.
 
-'''
-python
+```python
 import researchpy, pandas ,numpy
 
 df = pandas.DataFrame(numpy.random.randint(3, size= (200, 3)),
                   columns= ['erkek', 'severity', 'kadın'])
                   
 researchpy.crosstab(df['erkek'], df['kadın'])
-'''
+```
 
 

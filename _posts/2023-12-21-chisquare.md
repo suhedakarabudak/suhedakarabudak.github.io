@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Öneri Sistemleri Hakkında"
-subtitle: "Dijital çağda, öneri sistemleri adeta dedektif gibi çalışarak kullanıcıların izlerini takip ediyor ve en sevdikleri içerikleri önlerine seriyor. Bu yazıda, teknolojinin detektifleri olarak kabul edilen öneri sistemlerinin sırlarına bir göz atacağız. Kullanıcıların sanal dünyada iz bıraktığı her adımda, bu algoritmalar nasıl esrarengiz bir şekilde ortaya çıkıyor? 🕵️‍♂️🔍"
+title: "Ki-Kare Testi"
+subtitle: "Veri Dünyasında Bir Adım Öteye: İstatistiksel Ki-Kare Testi 🤓📊"
 author: "Şuheda Karabudak"
 header-style: text
 tags:

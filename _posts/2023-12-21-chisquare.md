@@ -129,8 +129,53 @@ researchpy.crosstab(df['erkek'],df['kadın'],test='chi-square')
 ![Screenshot from 2024-01-02 12-43-19](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/32575010-d0b8-4c67-84a7-9dd0a53d0aa9)
 
 Beklenen frekansları yine aynı şekilde buluyoruz.
+
 ![Screenshot from 2024-01-02 12-51-36](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/f8e6040a-f5f1-49c6-8ae7-8af48d10c6d5)
+
 
 2x2 çapraz tabloda en az bir gözlenen sıklık 5'ten küçük olduğu için Fisher'in Exact testi ile ilgili değerler yorumlanır.
 
+```python
+from scipy.stats import fisher_exact
 
+# Örnek veri seti
+#                Kanser Var     Kanser Yok
+# Sigara İçiyor:      82             15
+# Sigara İçmiyor:      4             75
+
+# İki grup arasındaki ilişkiyi değerlendirmek için Fisher's exact testi
+contingency_table = [[82, 15], [4, 75]]
+
+odds_ratio, p_value = fisher_exact(contingency_table)
+
+print("Odds Ratio:", odds_ratio)
+print("p-value:", p_value)
+
+Output:
+Odds Ratio: 102.5
+p-value: 4.5642139755146983e-29
+```
+
+          Ho:Sigara içme durumu ve kanser olup olmama arasında ilişki yoktur.
+          
+          H1:Sigara içme durumu ve kanser olup olmama arasında ilişki vardır.
+
+Fisher kesin olasılık testi sonucuna göre Ho hipotezi reddedilir (p<0.001).Sigara ve Kanser değişkenleri arasında istatistiksel olarak anlamlı bir ilişki bulunmuştur.
+
+Sınıflanabilir kategorik değişkenler arasındaki ilişkininn derecesini incelemek için Phi ve Cramer V ilişki katsayılarının sonuçları verilmiştir.
+
+```python
+# Phi katsayısını hesapla
+def phi_coefficient(table):
+    a = table[0][0]
+    b = table[0][1]
+    c = table[1][0]
+    d = table[1][1]
+
+    return (a*d - b*c) / sqrt((a+b)*(c+d)*(a+c)*(b+d))
+
+phi = phi_coefficient(contingency_table)
+print("Phi Coefficient:", phi)
+```
+**Yorum,** Phi Coefficient: 0.7907649284913115 sigara ve kanser değişkenleri arasında güçlü derecede (%79) ve istatistiksel olarak anlamlı bir ilişki vardır.
+Sigara ve Kanser değişkenlerine ait çapraz tabşo üzerinden hesaplan odds oranı 102,5 olarak bulunmuştur.Sigara içen hastaların sigara içmeyenlere göre,kansere yakalanma olasılığı kansere yakalanmama olasılığından 102,5 kat daha fazladır.(Sigara içen hastaların kansere yakalanma riski,sigara içmeyenlere göre 102,5 kat daha fazladır.)

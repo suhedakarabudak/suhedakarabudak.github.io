@@ -5,9 +5,9 @@ subtitle: "Veri Dünyasında Bir Adım Öteye: İstatistiksel Ki-Kare Testi 🤓
 author: "Şuheda Karabudak"
 header-style: text
 tags:
-  - Data Science
+  - Dağılım
   - Veri
-  - Dijital Hayat
+  - Örneklem
 ---
 
 

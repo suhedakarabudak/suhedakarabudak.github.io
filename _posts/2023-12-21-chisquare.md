@@ -121,4 +121,4 @@ researchpy.crosstab(df['erkek'],df['kadın'],test='chi-square')
 ![Screenshot from 2023-12-30 23-13-16](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/6c0a5f1c-2adb-47dd-a7ad-64a769bd7235)
 
 
-
+**Sonuç,** yokluk hipotezini değişkenler arasında ilişki yoktur diye kurmuştuk.(Eşlerin eğitim durumları arasında ilişki yoktur.) p-value 0.05'den büyük olduğu için Ho hipotezi reddedilemez olduğunu 0.05 yanılma payıyla söylenebilir.

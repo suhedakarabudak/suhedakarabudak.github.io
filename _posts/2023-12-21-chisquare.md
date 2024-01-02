@@ -123,7 +123,7 @@ researchpy.crosstab(df['erkek'],df['kadın'],test='chi-square')
 
 **Sonuç,** yokluk hipotezini değişkenler arasında ilişki yoktur diye kurmuştuk.(Eşlerin eğitim durumları arasında ilişki yoktur.) p-value 0.05'den büyük olduğu için Ho hipotezi reddedilemez olduğunu 0.05 yanılma payıyla söylenebilir.Eğer ki aralarındaki ilişki önemli olsaydı ilişki katsayısını hesaplamamız gerekirdi.
 
-**2-2X2 Çapraz Tabloda Ki-kare Testi:**
+**2-2x2 Çapraz Tabloda Ki-kare Testi:**
 Örnek üzerinden anlatacağım.Bir hastanede muayene edilen 176 hastanın sigara içme durumu ile akciğer kanseri olması arasındaki ilişki incelenmek istenmektedir.Hastalara ait veriler aşağıda verilmiş ve gerekli çözümlemeyi yapınız.
 
 ![Screenshot from 2024-01-02 12-43-19](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/32575010-d0b8-4c67-84a7-9dd0a53d0aa9)

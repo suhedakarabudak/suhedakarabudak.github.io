@@ -184,6 +184,7 @@ Sigara ve Kanser değişkenlerine ait çapraz tabşo üzerinden hesaplan odds or
 Uyum analizi, aynı zamanda uygunluk analizi olarak bilinir.İki ya da daha fazla kategorik değişken arasındaki ilişkilerin çok boyutlu uzayda grafiksel olarak ifade edildiği bir yöntemdir.Dağılımın gözlenen dağılım arasındaki farklılık olup olmadığını test edilmektedir.
 
 **Uyum İyiliği Testi Adımları:**
+
 **1.** Yokluk(H0) ve alternatif(H1) hipotezler kurulur.
 
 **2.** Rasgele örneklem seçilir ve k sınıf için gözlenen sıklık (fi) kaydedilir.

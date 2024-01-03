@@ -179,3 +179,32 @@ print("Phi Coefficient:", phi)
 ```
 **Yorum,** Phi Coefficient: 0.7907649284913115 sigara ve kanser değişkenleri arasında güçlü derecede (%79) ve istatistiksel olarak anlamlı bir ilişki vardır.
 Sigara ve Kanser değişkenlerine ait çapraz tabşo üzerinden hesaplan odds oranı 102,5 olarak bulunmuştur.Sigara içen hastaların sigara içmeyenlere göre,kansere yakalanma olasılığı kansere yakalanmama olasılığından 102,5 kat daha fazladır.(Sigara içen hastaların kansere yakalanma riski,sigara içmeyenlere göre 102,5 kat daha fazladır.)
+
+**3-Uyum İyiliği Analizi:**
+Uyum analizi, aynı zamanda uygunluk analizi olarak bilinir.İki ya da daha fazla kategorik değişken arasındaki ilişkilerin çok boyutlu uzayda grafiksel olarak ifade edildiği bir yöntemdir.Dağılımın gözlenen dağılım arasındaki farklılık olup olmadığını test edilmektedir.
+
+**Uyum İyiliği Testi Adımları:**
+**1.** Yokluk(H0) ve alternatif(H1) hipotezler kurulur.
+
+**2.** Rasgele örneklem seçilir ve k sınıf için gözlenen sıklık (fi) kaydedilir.
+
+**3.** Dağılımdan yararlanarak önce kuramsal olasılıkları (pi) ve sonrasında beklenen(kuramsal) sıklıklar (ei) hesaplanır.
+
+      Beklenen sıklık(ei): Her sınıf için örneklem büyüklüğü ile olasılığın çarpımı ile hesaplanır.
+      
+![Screenshot from 2024-01-03 12-43-50](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/e72c5d28-049f-49ec-a4da-c49b87147d0a)
+
+**4.** k:sınıf sayısı üzerinden test istatistiği hesaplanır.
+
+![Screenshot from 2024-01-03 12-50-10](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/c622c9aa-c15e-4a20-96a3-b625249f89a6)
+
+**5.** 
+![Screenshot from 2024-01-03 12-54-47](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/bb17efb2-b21c-4938-89e4-29689f8337f3)
+
+
+Kaynakça
+--
+- [Chi-Square Test](https://statisticalstories.xyz/chi-square)
+  
+
+- [scipy](https://docs.scipy.org/doc/scipy/reference/stats.contingency.html)

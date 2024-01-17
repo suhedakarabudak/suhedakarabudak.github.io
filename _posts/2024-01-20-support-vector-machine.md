@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Destek Vektör Makinesi Algoritması (Support Vector Machine)"
+title:        "Destek Vektör Makinesi Algoritması (Support Vector Machine)🤖"
 author:       "Şuheda Karabudak"
 header-style: text
 catalog:      true

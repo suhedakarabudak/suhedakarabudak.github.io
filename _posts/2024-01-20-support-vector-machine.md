@@ -90,10 +90,12 @@ SVM'nin dezavantajları
  - SVM hiperparametreleri Maliyet -C ve gamadır. Bu hiper parametrelere ince ayar yapmak o kadar kolay değil.Etkilerini görselleştirmek zordur.
 
 
+
 Kaynakça
 --
-https://www.koshegio.com/support-vector-machine-calculator
+- [SVM Calculator](https://www.koshegio.com/support-vector-machine-calculator)
+  
+- [SVM'nin Matematiksel Altyapsı](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
 
-https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/
+- [SVM](https://datatron.com/what-is-a-support-vector-machine/)
 
-https://datatron.com/what-is-a-support-vector-machine/

@@ -39,4 +39,12 @@ Destek Vektör Makinesi Algoritmasında Bazı Kavramlar
 
 - **Çekirdek İşlevi(Kernel Trick):** Bunlar hiperdüzlemin şeklini ve karar sınırını belirlemek için kullanılan işlevlerdir.
 
+> Destek Vektör Makinesinin Temel Amacı: iki sınıf arasındaki maksimum mesafe anlamına gelen hiperdüzlemler arasındaki maksimum marjı bularak yapar.
+
+
+Destek Vektör Makinesi Nasıl Çalışır?
+--
+
+\begin{align}f(x) = \text{sign} \left(\sum_i^N \alpha_i~y_i~K(x_i, x)\right).\end{align}
+
 

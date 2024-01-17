@@ -45,6 +45,10 @@ Destek Vektör Makinesi Algoritmasında Bazı Kavramlar
 Destek Vektör Makinesi Nasıl Çalışır?
 --
 
-\begin{align}f(x) = \text{sign} \left(\sum_i^N \alpha_i~y_i~K(x_i, x)\right).\end{align}
+![567891](https://github.com/suhedakarabudak/suhedakarabudak.github.io/assets/100937634/9fb7874a-d3a8-4ace-8da8-354ed5459e56)
 
 
+
+Kaynakça
+--
+https://www.koshegio.com/support-vector-machine-calculator

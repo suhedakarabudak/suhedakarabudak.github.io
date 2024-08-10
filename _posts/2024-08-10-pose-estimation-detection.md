@@ -14,8 +14,8 @@ tags:
 
 Squat, fitness dünyasında en temel ve etkili egzersizlerden biri olarak bilinir. Ancak, doğru yapılmadığında sakatlanma riskini artırabilir. Bu nedenle, doğru formda squat yapmanın önemi büyüktür. Bu blog yazısında, squat hareketinin analizini gerçekleştiren ve doğru formda yapılıp yapılmadığını tespit eden bir sistem geliştirme sürecini adım adım açıklayacağım. Bu projede Medipipe kütüphanesi, Streamlit ve FastAPI kullanarak bir squat analizi uygulaması geliştirdim.
 
+![Screenshot from 2024-08-10 23-28-39](https://github.com/user-attachments/assets/1e875e7b-f56e-4e19-b48d-cffa15a6a374)
 
-![](https://github.com/user-attachments/assets/1f7a08f8-7430-4035-8315-5b9d88a173fd)
 
 
 

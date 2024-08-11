@@ -14,9 +14,6 @@ tags:
 
 Squat, fitness dünyasında en temel ve etkili egzersizlerden biri olarak bilinir. Ancak, doğru yapılmadığında sakatlanma riskini artırabilir. Bu nedenle, doğru formda squat yapmanın önemi büyüktür. Bu blog yazısında, squat hareketinin analizini gerçekleştiren ve doğru formda yapılıp yapılmadığını tespit eden bir sistem geliştirme sürecini adım adım açıklayacağım. Bu projede Medipipe kütüphanesi, Streamlit ve FastAPI kullanarak bir squat analizi uygulaması geliştirdim.
 
-![Screenshot from 2024-08-10 23-28-39](https://github.com/user-attachments/assets/1e875e7b-f56e-4e19-b48d-cffa15a6a374)
-
-
 
 
 Projenin Adımları
@@ -40,9 +37,12 @@ Bu proje gerçek zamanlı olacağı için kullanıcın görebileceği,videoları
   
 - Sonuçların İndirilmesi: Kullanıcılar, analiz sonuçlarını bir dosya olarak indirebilir.
 
+
+![](https://github.com/user-attachments/assets/f86f8b64-8bad-49db-8279-c5d9edfd343b)
+
 **3.Adım: FastAPI ile Makine Öğrenmesi Modelinin Entegrasyonu**
 
-Projenin bu kısmı tamamen bana aittir.Yukarıdaki adımları yaparak squat pozisyonun doğru yapılıp,yapılmadığı anlaşılıyor ve bu aslında var olan bir projedir.Bu projeye ek olarak makine öğrenmesi algoritmalarını kullanarak bunu veri bilimi ile destekleyerek bir model geliştirip Fastapi entegre etmektir.
+Yukarıdaki adımları yaparak squat pozisyonun doğru yapılıp,yapılmadığını anlayabiliriz. Bu projeye ek olarak makine öğrenmesi algoritmalarını kullanarak bunu veri bilimi ile destekleyerek bir model geliştirip Fastapi entegrasyon sağlayabiliriz.
 
 **FastAPI**, modern ve yüksek performanslı bir API geliştirme framework’üdür. Bu projede, squat hareketinin doğru yapılıp yapılmadığını belirleyen bir makine öğrenimi modeli geliştirdim ve FastAPI ile entegre ettim.Yarattığımız makine öğrenmesi modellerini yaratmak veri bilimi döngüsünün sadece çok küçük bir kısmını oluşturuyor. Modellerimizi canlıya alamadığımız sürece herhangi bir katma değer yaratamamış oluruz. Bu yüzden model yaratmaktan çok yaratılan modeli canlıya alma işi çok kıymetli. 
 
@@ -51,6 +51,13 @@ Projenin bu kısmı tamamen bana aittir.Yukarıdaki adımları yaparak squat poz
 - Model Eğitimi: Bu veri setini kullanarak, squat formunu sınıflandıran bir makine öğrenimi modeli eğittim.Bu modeli eğitirken bir çok makaleden destek aldım.Veri setlerini ayrı ayrı elde ettim.
   
 - API Entegrasyonu: Modeli FastAPI üzerinden bir servise dönüştürdüm, böylece Streamlit uygulaması bu servise istekte bulunarak analiz sonuçlarını alabilir.
+
+![Screenshot from 2024-08-10 01-02-31](https://github.com/user-attachments/assets/9df97a60-0a2f-461c-9184-b0a5a396cd5b)
+Bu görselde FastAPI sunduğu web arayüzünü görüyoruz.
+Üst Kısımda: Kullanıcını hangi squat videosunu analiz edilmesini istiyorsa onu yüklüyor.
+Ortada: Kullanıcının bu dosyayı bir sunucuya gönderip tahmin yapması için bir POST isteği gönderilmiş. Bu istek, video dosyasını sunucuya gönderiyor.
+Alt Kısımda: Sunucu, dosyayı işleyip yanıt olarak "predictions" (tahminler) adıyla bir liste döndürmüş. Bu listede birçok "Correct" (Doğru) sonucu var, yani tahminlerin hepsi doğru olarak değerlendirilmiş.
+Özetle: Kullanıcı bir video dosyasını sunucuya yüklüyor, sunucu bu videoyu analiz edip sonuçları geri döndürüyor.
 
 Proje Akışı
 -- 
@@ -62,4 +69,11 @@ Proje Akışı
 
 4. Sonuçların Görüntülenmesi: Model, squat hareketinin doğru olup olmadığını analiz eder ve sonucu Streamlit arayüzüne geri gönderir.
 
-5. onuçların İndirilmesi: Kullanıcı, analiz sonuçlarını isterse bir dosya olarak indirebilir.
+5. Sonuçların İndirilmesi: Kullanıcı, analiz sonuçlarını isterse bir dosya olarak indirebilir.
+
+Sonuç
+-- 
+
+Bu projede, squat analizini otomatikleştiren bir sistem geliştirdik. Medipipe kütüphanesi ile vücut eklemlerinin koordinatlarını çıkardık, makine öğrenmesi modeli ile doğru ve yanlış squatları belirledik ve bu sistemi FastAPI ile bir servise entegre ettik. Sonuç olarak, kullanıcıların squat formunu analiz edebileceği, interaktif ve kullanışlı bir araç ortaya koyduk.
+
+Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersizler yapılmasına olanak sağlar. Makine öğrenimi ve pose estimation tekniklerinin birleşimi, daha da gelişmiş analizler ve uygulamalar için büyük bir potansiyele sahiptir.

@@ -54,9 +54,13 @@ Yukarıdaki adımları yaparak squat pozisyonun doğru yapılıp,yapılmadığı
 
 ![Screenshot from 2024-08-10 01-02-31](https://github.com/user-attachments/assets/9df97a60-0a2f-461c-9184-b0a5a396cd5b)
 Bu görselde FastAPI sunduğu web arayüzünü görüyoruz.
+
 Üst Kısımda: Kullanıcını hangi squat videosunu analiz edilmesini istiyorsa onu yüklüyor.
+
 Ortada: Kullanıcının bu dosyayı bir sunucuya gönderip tahmin yapması için bir POST isteği gönderilmiş. Bu istek, video dosyasını sunucuya gönderiyor.
+
 Alt Kısımda: Sunucu, dosyayı işleyip yanıt olarak "predictions" (tahminler) adıyla bir liste döndürmüş. Bu listede birçok "Correct" (Doğru) sonucu var, yani tahminlerin hepsi doğru olarak değerlendirilmiş.
+
 Özetle: Kullanıcı bir video dosyasını sunucuya yüklüyor, sunucu bu videoyu analiz edip sonuçları geri döndürüyor.
 
 Proje Akışı
@@ -74,6 +78,10 @@ Proje Akışı
 Sonuç
 -- 
 
-Bu projede, squat analizini otomatikleştiren bir sistem geliştirdik. Medipipe kütüphanesi ile vücut eklemlerinin koordinatlarını çıkardık, makine öğrenmesi modeli ile doğru ve yanlış squatları belirledik ve bu sistemi FastAPI ile bir servise entegre ettik. Sonuç olarak, kullanıcıların squat formunu analiz edebileceği, interaktif ve kullanışlı bir araç ortaya koyduk.
+Bu projede, squat analizini otomatikleştiren bir sistem geliştirdim. Medipipe kütüphanesi ile vücut eklemlerinin koordinatlarını çıkardım.Buradan elde ettiğim ham verileri kullanarak  makine öğrenmesi modeli ile doğru ve yanlış squatları belirledim ve bu sistemi FastAPI ile bir servise entegre ettim. Sonuç olarak, kullanıcıların squat formunu analiz edebileceği, interaktif ve kullanışlı bir proje ortaya koydum.
 
 Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersizler yapılmasına olanak sağlar. Makine öğrenimi ve pose estimation tekniklerinin birleşimi, daha da gelişmiş analizler ve uygulamalar için büyük bir potansiyele sahiptir.
+
+
+https://github.com/user-attachments/assets/88694079-dd80-4aab-8561-4abab1d90482
+

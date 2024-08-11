@@ -99,4 +99,9 @@ Kaynakça
 
 -  [smpallick/opencv](https://github.com/spmallick/learnopencv8)
 
+- [Makale](https://dergipark.org.tr/tr/pub/dumf/issue/67466/1051429)
+
+- [Makale 2](https://www.researchgate.net/publication/349853529_Human_pose_estimation_and_its_application_to_action_recognition_A_survey)
+
+- [Makale 3](https://research.itu.edu.tr/tr/publications/efficient-and-robust-integration-of-face-detection-and-head-pose-)
   

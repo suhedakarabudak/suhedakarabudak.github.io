@@ -14,6 +14,7 @@ tags:
 
 Squat, fitness dünyasında en temel ve etkili egzersizlerden biri olarak bilinir. Ancak, doğru yapılmadığında sakatlanma riskini artırabilir. Bu nedenle, doğru formda squat yapmanın önemi büyüktür. Bu blog yazısında, squat hareketinin analizini gerçekleştiren ve doğru formda yapılıp yapılmadığını tespit eden bir sistem geliştirme sürecini adım adım açıklayacağım. Bu projede Medipipe kütüphanesi, Streamlit ve FastAPI kullanarak bir squat analizi uygulaması geliştirdim.
 
+![](https://github.com/user-attachments/assets/28aabfaf-b756-4f87-b62b-b18e2169f135)
 
 
 Projenin Adımları
@@ -80,16 +81,13 @@ Sonuç
 
 Bu projede, squat analizini otomatikleştiren bir sistem geliştirdim. Medipipe kütüphanesi ile vücut eklemlerinin koordinatlarını çıkardım.Buradan elde ettiğim ham verileri kullanarak  makine öğrenmesi modeli ile doğru ve yanlış squatları belirledim ve bu sistemi FastAPI ile bir servise entegre ettim. Sonuç olarak, kullanıcıların squat formunu analiz edebileceği, interaktif ve kullanışlı bir proje ortaya koydum.
 
-Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersizler yapılmasına olanak sağlar. Makine öğrenimi ve pose estimation tekniklerinin birleşimi, daha da gelişmiş analizler ve uygulamalar için büyük bir potansiyele sahiptir.
+Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersizler yapılmasına olanak sağlar. Makine öğrenimi ve pose estimation tekniklerinin birleşimi, daha da gelişmiş analizler ve uygulamalar için büyük bir öneme sahiptir.
 
 
-
-https://github.com/user-attachments/assets/1bc21e0e-f325-4545-8141-bf625756d73b
 
 [Bu videoyu izleyin](https://drive.google.com/file/d/1OsIYYOlfW9zmPDxc9Xr-8n0XUQh2QEC_/view?usp=drive_link)
 
+Kodların tamamına [github](ff) hesabından ulaşabilirsiniz.
 
-
-
-[Bu videoyu izleyin](https://github.com/user-attachments/assets/44856077-b86d-4870-8eba-c9cf12530385)
-
+Kaynakça
+-- 

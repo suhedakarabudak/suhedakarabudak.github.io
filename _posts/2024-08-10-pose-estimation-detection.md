@@ -5,10 +5,10 @@ subtitle: ""
 author: "Şuheda Karabudak"
 header-style: text
 tags:
-  - İstatistik
-  - Aykırı değer
-  - Outliers
-  - Veri
+  - Computer Vision
+  - Spor
+  - Data Science
+  - Veri Analizi
 ---
 
 
@@ -87,7 +87,12 @@ Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersiz
 
 [Bu videoyu izleyin](https://drive.google.com/file/d/1OsIYYOlfW9zmPDxc9Xr-8n0XUQh2QEC_/view?usp=drive_link)
 
-Kodların tamamına [github](ff) hesabından ulaşabilirsiniz.
+Kodların tamamına [github](https://github.com/suhedakarabudak/pose-estimation-detection/tree/master) hesabımdan ulaşabilirsiniz.
+
 
 Kaynakça
 -- 
+
+-  [smpallick/opencv](https://github.com/spmallick/learnopencv8)
+
+  

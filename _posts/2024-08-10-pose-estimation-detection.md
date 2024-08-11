@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yapay Zeka ile Squat Performansınızı Otomatik Olarak Değerlendirin"
+title: "Yapay Zeka ile Squat Performansınızı Değerlendirin"
 subtitle: ""
 author: "Şuheda Karabudak"
 header-style: text

@@ -83,5 +83,7 @@ Bu projede, squat analizini otomatikleştiren bir sistem geliştirdim. Medipipe 
 Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersizler yapılmasına olanak sağlar. Makine öğrenimi ve pose estimation tekniklerinin birleşimi, daha da gelişmiş analizler ve uygulamalar için büyük bir potansiyele sahiptir.
 
 
-https://github.com/user-attachments/assets/88694079-dd80-4aab-8561-4abab1d90482
+
+
+[Bu videoyu izleyin](https://github.com/user-attachments/assets/44856077-b86d-4870-8eba-c9cf12530385)
 

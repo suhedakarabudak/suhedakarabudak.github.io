@@ -26,6 +26,8 @@ Projenin Adımları
 
 Medipipe, Google tarafından geliştirilen, gerçek zamanlı makine öğrenimi uygulamalarını kolaylaştıran güçlü bir kütüphanedir. Pose Estimation, vücut eklemlerinin (örneğin, dirsek, diz, omuz) konumlarını belirleyen bir tekniktir. Bu projede, squat hareketini analiz etmek için Medipipe'in Pose Estimation modelini kullandım. Model, video üzerinden kullanıcının vücut eklemlerinin x, y ve z koordinatlarını çıkarır. 
 
+![Streamlit Arayüzü](https://github.com/user-attachments/assets/5045fa45-4249-4216-9618-cc9c95a00afa)
+
 
 **2.Adım: Streamlit Kütüphanesi ile Arayüz Oluşturma**
 

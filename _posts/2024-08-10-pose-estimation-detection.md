@@ -84,6 +84,12 @@ Bu tür projeler, fitness ve sağlık alanında daha güvenli ve etkili egzersiz
 
 
 
+https://github.com/user-attachments/assets/1bc21e0e-f325-4545-8141-bf625756d73b
+
+
+
+
+
 
 [Bu videoyu izleyin](https://github.com/user-attachments/assets/44856077-b86d-4870-8eba-c9cf12530385)
 
